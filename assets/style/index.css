@@ -159,8 +159,8 @@ font-size: 7.21379pt;
     width: 90px;
     height:37px;
     cursor:pointer;
-    margin-top: 14px;
-    margin-left: 488px;
+    margin-top: 13px;
+    margin-left: 490px;
     color: #d7fcf5;
    font-family: "Lato", "Arial", sans-serif;
    font-size: 11px;
@@ -500,7 +500,7 @@ margin-left: 3px;
     position: relative;
     width: 960px;
     border-width: 0px 0px 1px 0px;
-    top: 261px;
+    top: 263px;
     left: 30px;
 }
 .social{
@@ -578,8 +578,8 @@ margin-left: 3px;
     background-image: url(../img/Dribbble.png);
 }
 .in-touch-form{
-    margin-left: 122px;
-    margin-top: -36px;
+    margin-left: 120px;
+    margin-top: -35px;
 }
 
 .info-form{
@@ -592,7 +592,7 @@ margin-left: 3px;
     font-family: "MavenPro Regular";
     color: rgba(224, 224, 224, 255);
     top: -117px;
-    left: -3px;
+    left: -1px;
     line-height: 4.56px;
 
 }
@@ -626,7 +626,7 @@ line-height: 38.56px;
     color: #bebebe;
 font-family: "Lato", "Arial", sans-serif;
 font-size: 12px;
-line-height: 21.56px;
+line-height: 22.6px;
 }
 .some-info{
     position:relative;
@@ -669,7 +669,7 @@ top: -56px;
   height: 54px;
   position: relative;
   left: 22px;
-  top: -5px;
+  top: -6px;
  
   
 }
@@ -714,7 +714,7 @@ line-height: 21.56px;
     position: relative;
     width: 960px;
     border-width: 0px 0px 1px 0px;
-    top: 56px;
+    top: 52px;
     left: 30px;
 }
 .visuallyhidden {
@@ -739,4 +739,9 @@ line-height: 21.56px;
     font-size: 12px;
     line-height: 44.32px;
     margin-left:36px;
+}
+::-webkit-input-placeholder{
+    font-family: "Lato", "Arial", sans-serif;
+    font-size: 12px;
+    color:#bebebe;
 }
